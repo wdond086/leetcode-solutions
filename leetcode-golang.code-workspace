@@ -5,6 +5,8 @@
 		}
 	],
 	"settings": {
-		"go.autocompleteUnimportedPackages": true
+		"go.autocompleteUnimportedPackages": true,
+		"editor.wordWrap": "on",
+		"editor.formatOnSave": true
 	}
 }
