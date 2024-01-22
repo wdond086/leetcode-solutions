@@ -2,6 +2,6 @@ package tester
 
 import "fmt"
 
-func PrintFromTester() {
+func Print() {
 	fmt.Println("Printing from tester")
 }

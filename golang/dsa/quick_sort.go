@@ -2,6 +2,7 @@ package dsa
 
 import "fmt"
 
-func PrintFromTester() {
+func Print() {
 	fmt.Println("Printing from DSA/QuickSort")
+	print()
 }

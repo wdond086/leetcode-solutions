@@ -3,12 +3,12 @@ package main
 import (
 	"fmt"
 
-	"github.com/wdond086/leetcode-solutions/dsa/quick_sort"
+	"github.com/wdond086/leetcode-solutions/dsa"
 	"github.com/wdond086/leetcode-solutions/tester"
 )
 
 func main() {
 	fmt.Println("Printing from main")
-	tester.PrintFromTester()
-	quick_sort.PrintFromTester()
+	tester.Print()
+	dsa.Print()
 }
